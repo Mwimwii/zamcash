@@ -1,0 +1,2 @@
+# zamcash
+Zamcash Clone
